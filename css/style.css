@@ -1,1 +1,24 @@
+body {
+    background-color: gray;
+    font-family: arial narrow;
+    color: white;
+}
 
+h1 {
+    color: grey;
+    font-family: arial black;
+}
+
+.div1 {
+    background-color: white;
+    color: black;
+    width: 480px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+table {
+    margin-left: 100px;
+}
